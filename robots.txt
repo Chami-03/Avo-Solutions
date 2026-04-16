@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Host: avosolutions.dev
+
+Sitemap: https://avosolutions.dev/sitemap.xml
